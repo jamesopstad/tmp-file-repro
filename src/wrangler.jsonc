@@ -1,0 +1,7 @@
+{
+  "name": "tmp-file-repro",
+  "main": "index.js",
+  "compatibility_date": "2025-04-23",
+  "rules": [{ "type": "ESModule", "globs": ["**/*.js"] }],
+  "no_bundle": true
+}
